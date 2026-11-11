@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050B24"/><stop offset="1" stop-color="#0B1E5B"/></linearGradient>
+<radialGradient id="orbA" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#1E5BFF" stop-opacity=".75"/><stop offset="1" stop-color="#1E5BFF" stop-opacity="0"/></radialGradient>
+<radialGradient id="orbB" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#38BDF8" stop-opacity=".45"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+<linearGradient id="accent" x1="0" x2="1"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#1E5BFF"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".05"/></pattern>
+<style>.t{font-family:'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif}.in{animation:in .8s ease-out backwards}@keyframes in{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}</style></defs>
+
+<g class="in" style="animation-delay:0.00s">
+  <rect x="20" y="20" width="275" height="180" rx="18" fill="#0B1638" stroke="#ffffff" stroke-opacity=".08"/>
+  <rect x="20" y="20" width="275" height="5" rx="2.5" fill="url(#accent)"/>
+  <text class="t" x="42" y="62" font-size="12" font-weight="700" fill="#38BDF8" letter-spacing="1">EDTECH</text>
+  <text class="t" x="42" y="94" font-size="22" font-weight="800" fill="#FFFFFF">LMS Single</text>
+  <text class="t" x="42" y="120" font-size="13.5" fill="#A9B8E0"><tspan x="42" dy="0">Courses, quizzes and parent</tspan><tspan x="42" dy="18">tracking apps</tspan></text>
+  <g class="t"><rect x="42" y="162" width="48" height="24" rx="12" fill="#1E5BFF" fill-opacity=".18"/><text x="66" y="179" text-anchor="middle" font-size="12" fill="#BFD4FF">React</text><rect x="96.5" y="162" width="62" height="24" rx="12" fill="#1E5BFF" fill-opacity=".18"/><text x="127" y="179" text-anchor="middle" font-size="12" fill="#BFD4FF">TypeORM</text><rect x="164.0" y="162" width="55" height="24" rx="12" fill="#1E5BFF" fill-opacity=".18"/><text x="192" y="179" text-anchor="middle" font-size="12" fill="#BFD4FF">Stripe</text></g>
+</g>
+<g class="in" style="animation-delay:0.10s">
+  <rect x="315" y="20" width="275" height="180" rx="18" fill="#0B1638" stroke="#ffffff" stroke-opacity=".08"/>
+  <rect x="315" y="20" width="275" height="5" rx="2.5" fill="url(#accent)"/>
+  <text class="t" x="337" y="62" font-size="12" font-weight="700" fill="#38BDF8" letter-spacing="1">LIVE LEARNING</text>
+  <text class="t" x="337" y="94" font-size="22" font-weight="800" fill="#FFFFFF">Zoom LMS</text>
+  <text class="t" x="337" y="120" font-size="13.5" fill="#A9B8E0"><tspan x="337" dy="0">Live classes, recordings, two</tspan><tspan x="337" dy="18">mobile apps</tspan></text>
+  <g class="t"><rect x="337" y="162" width="68" height="24" rx="12" fill="#1E5BFF" fill-opacity=".18"/><text x="371" y="179" text-anchor="middle" font-size="12" fill="#BFD4FF">Zoom API</text><rect x="411.0" y="162" width="74" height="24" rx="12" fill="#1E5BFF" fill-opacity=".18"/><text x="448" y="179" text-anchor="middle" font-size="12" fill="#BFD4FF">Socket.io</text><rect x="491.5" y="162" width="94" height="24" rx="12" fill="#1E5BFF" fill-opacity=".18"/><text x="538" y="179" text-anchor="middle" font-size="12" fill="#BFD4FF">React Native</text></g>
+</g>
+<g class="in" style="animation-delay:0.20s">
+  <rect x="610" y="20" width="275" height="180" rx="18" fill="#0B1638" stroke="#ffffff" stroke-opacity=".08"/>
+  <rect x="610" y="20" width="275" height="5" rx="2.5" fill="url(#accent)"/>
+  <text class="t" x="632" y="62" font-size="12" font-weight="700" fill="#38BDF8" letter-spacing="1">AI · EDTECH</text>
+  <text class="t" x="632" y="94" font-size="22" font-weight="800" fill="#FFFFFF">General AI Learning</text>
+  <text class="t" x="632" y="120" font-size="13.5" fill="#A9B8E0"><tspan x="632" dy="0">LLM document parsing and quiz</tspan><tspan x="632" dy="18">generation</tspan></text>
+  <g class="t"><rect x="632" y="162" width="62" height="24" rx="12" fill="#1E5BFF" fill-opacity=".18"/><text x="663" y="179" text-anchor="middle" font-size="12" fill="#BFD4FF">Node.js</text><rect x="699.5" y="162" width="36" height="24" rx="12" fill="#1E5BFF" fill-opacity=".18"/><text x="717" y="179" text-anchor="middle" font-size="12" fill="#BFD4FF">LLM</text><rect x="741.0" y="162" width="48" height="24" rx="12" fill="#1E5BFF" fill-opacity=".18"/><text x="765" y="179" text-anchor="middle" font-size="12" fill="#BFD4FF">MySQL</text></g>
+</g>
+<g class="in" style="animation-delay:0.30s">
+  <rect x="905" y="20" width="275" height="180" rx="18" fill="#0B1638" stroke="#ffffff" stroke-opacity=".08"/>
+  <rect x="905" y="20" width="275" height="5" rx="2.5" fill="url(#accent)"/>
+  <text class="t" x="927" y="62" font-size="12" font-weight="700" fill="#38BDF8" letter-spacing="1">AUCTIONS</text>
+  <text class="t" x="927" y="94" font-size="22" font-weight="800" fill="#FFFFFF">Bidz</text>
+  <text class="t" x="927" y="120" font-size="13.5" fill="#A9B8E0"><tspan x="927" dy="0">Real-time bidding with secure</tspan><tspan x="927" dy="18">delivery</tspan></text>
+  <g class="t"><rect x="927" y="162" width="62" height="24" rx="12" fill="#1E5BFF" fill-opacity=".18"/><text x="958" y="179" text-anchor="middle" font-size="12" fill="#BFD4FF">Node.js</text><rect x="994.5" y="162" width="62" height="24" rx="12" fill="#1E5BFF" fill-opacity=".18"/><text x="1025" y="179" text-anchor="middle" font-size="12" fill="#BFD4FF">MongoDB</text><rect x="1062.0" y="162" width="74" height="24" rx="12" fill="#1E5BFF" fill-opacity=".18"/><text x="1099" y="179" text-anchor="middle" font-size="12" fill="#BFD4FF">Socket.io</text></g>
+</g>
+<g class="in" style="animation-delay:0.40s">
+  <rect x="20" y="220" width="275" height="180" rx="18" fill="#0B1638" stroke="#ffffff" stroke-opacity=".08"/>
+  <rect x="20" y="220" width="275" height="5" rx="2.5" fill="url(#accent)"/>
+  <text class="t" x="42" y="262" font-size="12" font-weight="700" fill="#38BDF8" letter-spacing="1">ENTERPRISE</text>
+  <text class="t" x="42" y="294" font-size="22" font-weight="800" fill="#FFFFFF">Business CRM</text>
+  <text class="t" x="42" y="320" font-size="13.5" fill="#A9B8E0"><tspan x="42" dy="0">Sales, HR, projects and finance</tspan><tspan x="42" dy="18">with RBAC</tspan></text>
+  <g class="t"><rect x="42" y="362" width="55" height="24" rx="12" fill="#1E5BFF" fill-opacity=".18"/><text x="70" y="379" text-anchor="middle" font-size="12" fill="#BFD4FF">NestJS</text><rect x="103.0" y="362" width="48" height="24" rx="12" fill="#1E5BFF" fill-opacity=".18"/><text x="127" y="379" text-anchor="middle" font-size="12" fill="#BFD4FF">React</text><rect x="157.5" y="362" width="81" height="24" rx="12" fill="#1E5BFF" fill-opacity=".18"/><text x="198" y="379" text-anchor="middle" font-size="12" fill="#BFD4FF">TypeScript</text></g>
+</g>
+<g class="in" style="animation-delay:0.50s">
+  <rect x="315" y="220" width="275" height="180" rx="18" fill="#0B1638" stroke="#ffffff" stroke-opacity=".08"/>
+  <rect x="315" y="220" width="275" height="5" rx="2.5" fill="url(#accent)"/>
+  <text class="t" x="337" y="262" font-size="12" font-weight="700" fill="#38BDF8" letter-spacing="1">HEALTHCARE · IOT</text>
+  <text class="t" x="337" y="294" font-size="22" font-weight="800" fill="#FFFFFF">Sanad A+</text>
+  <text class="t" x="337" y="320" font-size="13.5" fill="#A9B8E0"><tspan x="337" dy="0">Care platform for elderly and</tspan><tspan x="337" dy="18">Alzheimer&#x27;s patients</tspan></text>
+  <g class="t"><rect x="337" y="362" width="55" height="24" rx="12" fill="#1E5BFF" fill-opacity=".18"/><text x="364" y="379" text-anchor="middle" font-size="12" fill="#BFD4FF">NestJS</text><rect x="398.0" y="362" width="94" height="24" rx="12" fill="#1E5BFF" fill-opacity=".18"/><text x="445" y="379" text-anchor="middle" font-size="12" fill="#BFD4FF">React Native</text><rect x="498.0" y="362" width="42" height="24" rx="12" fill="#1E5BFF" fill-opacity=".18"/><text x="519" y="379" text-anchor="middle" font-size="12" fill="#BFD4FF">Maps</text></g>
+</g>
+<g class="in" style="animation-delay:0.60s">
+  <rect x="610" y="220" width="275" height="180" rx="18" fill="#0B1638" stroke="#ffffff" stroke-opacity=".08"/>
+  <rect x="610" y="220" width="275" height="5" rx="2.5" fill="url(#accent)"/>
+  <text class="t" x="632" y="262" font-size="12" font-weight="700" fill="#38BDF8" letter-spacing="1">SECURITY · CONSTRUCTION</text>
+  <text class="t" x="632" y="294" font-size="22" font-weight="800" fill="#FFFFFF">Horus</text>
+  <text class="t" x="632" y="320" font-size="13.5" fill="#A9B8E0"><tspan x="632" dy="0">Security services and construction</tspan><tspan x="632" dy="18">supplies</tspan></text>
+  <g class="t"><rect x="632" y="362" width="55" height="24" rx="12" fill="#1E5BFF" fill-opacity=".18"/><text x="660" y="379" text-anchor="middle" font-size="12" fill="#BFD4FF">NestJS</text><rect x="693.0" y="362" width="94" height="24" rx="12" fill="#1E5BFF" fill-opacity=".18"/><text x="740" y="379" text-anchor="middle" font-size="12" fill="#BFD4FF">React Native</text><rect x="793.0" y="362" width="74" height="24" rx="12" fill="#1E5BFF" fill-opacity=".18"/><text x="830" y="379" text-anchor="middle" font-size="12" fill="#BFD4FF">Socket.io</text></g>
+</g>
+<g class="in" style="animation-delay:0.70s">
+  <rect x="905" y="220" width="275" height="180" rx="18" fill="#0B1638" stroke="#ffffff" stroke-opacity=".08"/>
+  <rect x="905" y="220" width="275" height="5" rx="2.5" fill="url(#accent)"/>
+  <text class="t" x="927" y="262" font-size="12" font-weight="700" fill="#38BDF8" letter-spacing="1">NEXT UP</text>
+  <text class="t" x="927" y="294" font-size="22" font-weight="800" fill="#FFFFFF">Your product</text>
+  <text class="t" x="927" y="320" font-size="13.5" fill="#A9B8E0"><tspan x="927" dy="0">Have an idea? Let&#x27;s build it</tspan><tspan x="927" dy="18">together.</tspan></text>
+  <g class="t"><rect x="927" y="362" width="114" height="24" rx="12" fill="#1E5BFF" fill-opacity=".18"/><text x="984" y="379" text-anchor="middle" font-size="12" fill="#BFD4FF">alphaa-tech.com</text></g>
+</g>
+</svg>

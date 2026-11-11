@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050B24"/><stop offset="1" stop-color="#0B1E5B"/></linearGradient>
+<radialGradient id="orbA" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#1E5BFF" stop-opacity=".75"/><stop offset="1" stop-color="#1E5BFF" stop-opacity="0"/></radialGradient>
+<radialGradient id="orbB" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#38BDF8" stop-opacity=".45"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+<linearGradient id="accent" x1="0" x2="1"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#1E5BFF"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".05"/></pattern>
+<style>.t{font-family:'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif}.in{animation:in .8s ease-out backwards}@keyframes in{from{opacity:0;transform:translateX(-12px)}to{opacity:1;transform:none}}</style></defs>
+<g class="in t">
+<rect x="20" y="26" width="6" height="44" rx="3" fill="url(#accent)"/>
+<text x="42" y="56" font-size="30" font-weight="800" fill="#1E5BFF">What we do</text>
+<text x="42" y="84" font-size="15" fill="#6B7A99">Everything your digital product needs</text>
+</g>
+</svg>

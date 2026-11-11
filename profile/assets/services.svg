@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050B24"/><stop offset="1" stop-color="#0B1E5B"/></linearGradient>
+<radialGradient id="orbA" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#1E5BFF" stop-opacity=".75"/><stop offset="1" stop-color="#1E5BFF" stop-opacity="0"/></radialGradient>
+<radialGradient id="orbB" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#38BDF8" stop-opacity=".45"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+<linearGradient id="accent" x1="0" x2="1"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#1E5BFF"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".05"/></pattern>
+<style>.t{font-family:'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif}.in{animation:in .8s ease-out backwards}@keyframes in{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.card{animation:bob 5s ease-in-out infinite}@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}</style></defs>
+
+<g class="in" style="animation-delay:0.00s"><g class="card" style="animation-delay:0.0s">
+  <rect x="20" y="20" width="220" height="200" rx="18" fill="#0B1638" stroke="#ffffff" stroke-opacity=".08"/>
+  <circle cx="70" cy="72" r="30" fill="#1E5BFF" fill-opacity=".18"/>
+  <g transform="translate(70 72)" fill="none" stroke="#38BDF8" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="-18" y="-14" width="36" height="28" rx="5"/><path d="M-18 -5H18M-10 4h12M-10 9h8"/></g>
+  <text class="t" x="42" y="142" font-size="18" font-weight="700" fill="#FFFFFF">UI/UX Design</text>
+  <text class="t" x="42" y="170" font-size="14" fill="#A9B8E0">Stunning, intuitive interfaces</text>
+</g></g>
+<g class="in" style="animation-delay:0.12s"><g class="card" style="animation-delay:0.6s">
+  <rect x="256" y="20" width="220" height="200" rx="18" fill="#0B1638" stroke="#ffffff" stroke-opacity=".08"/>
+  <circle cx="306" cy="72" r="30" fill="#1E5BFF" fill-opacity=".18"/>
+  <g transform="translate(306 72)" fill="none" stroke="#38BDF8" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><circle cx="-5" cy="-3" r="11"/><circle cx="7" cy="5" r="11"/></g>
+  <text class="t" x="278" y="142" font-size="18" font-weight="700" fill="#FFFFFF">Graphic Design</text>
+  <text class="t" x="278" y="170" font-size="14" fill="#A9B8E0">Brand and visual identity</text>
+</g></g>
+<g class="in" style="animation-delay:0.24s"><g class="card" style="animation-delay:1.2s">
+  <rect x="492" y="20" width="220" height="200" rx="18" fill="#0B1638" stroke="#ffffff" stroke-opacity=".08"/>
+  <circle cx="542" cy="72" r="30" fill="#1E5BFF" fill-opacity=".18"/>
+  <g transform="translate(542 72)" fill="none" stroke="#38BDF8" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M-8 -10l-10 10 10 10M8 -10l10 10-10 10M4 -14l-8 28"/></g>
+  <text class="t" x="514" y="142" font-size="18" font-weight="700" fill="#FFFFFF">Web &amp; App Dev</text>
+  <text class="t" x="514" y="170" font-size="14" fill="#A9B8E0">Web and mobile apps</text>
+</g></g>
+<g class="in" style="animation-delay:0.36s"><g class="card" style="animation-delay:1.8s">
+  <rect x="728" y="20" width="220" height="200" rx="18" fill="#0B1638" stroke="#ffffff" stroke-opacity=".08"/>
+  <circle cx="778" cy="72" r="30" fill="#1E5BFF" fill-opacity=".18"/>
+  <g transform="translate(778 72)" fill="none" stroke="#38BDF8" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="-12" y="-12" width="24" height="24" rx="5"/><path d="M-6 -18v6M6 -18v6M-6 12v6M6 12v6M-18 -6h6M-18 6h6M12 -6h6M12 6h6"/><circle r="4"/></g>
+  <text class="t" x="750" y="142" font-size="18" font-weight="700" fill="#FFFFFF">AI Integration</text>
+  <text class="t" x="750" y="170" font-size="14" fill="#A9B8E0">Next-gen smart features</text>
+</g></g>
+<g class="in" style="animation-delay:0.48s"><g class="card" style="animation-delay:2.4s">
+  <rect x="964" y="20" width="220" height="200" rx="18" fill="#0B1638" stroke="#ffffff" stroke-opacity=".08"/>
+  <circle cx="1014" cy="72" r="30" fill="#1E5BFF" fill-opacity=".18"/>
+  <g transform="translate(1014 72)" fill="none" stroke="#38BDF8" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="-17" y="-17" width="14" height="14" rx="3"/><rect x="3" y="-17" width="14" height="14" rx="3"/><rect x="-17" y="3" width="14" height="14" rx="3"/><rect x="3" y="3" width="14" height="14" rx="7"/></g>
+  <text class="t" x="986" y="142" font-size="18" font-weight="700" fill="#FFFFFF">Design Systems</text>
+  <text class="t" x="986" y="170" font-size="14" fill="#A9B8E0">Scalable visual foundations</text>
+</g></g>
+</svg>

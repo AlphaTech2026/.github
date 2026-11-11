@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050B24"/><stop offset="1" stop-color="#0B1E5B"/></linearGradient>
+<radialGradient id="orbA" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#1E5BFF" stop-opacity=".75"/><stop offset="1" stop-color="#1E5BFF" stop-opacity="0"/></radialGradient>
+<radialGradient id="orbB" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#38BDF8" stop-opacity=".45"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+<linearGradient id="accent" x1="0" x2="1"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#1E5BFF"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".05"/></pattern>
+<clipPath id="r"><rect width="1200" height="230" rx="24"/></clipPath>
+<style>.t{font-family:'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif}.in{animation:in .9s ease-out backwards}@keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.glow{animation:glow 2.6s ease-in-out infinite}@keyframes glow{0%,100%{opacity:.55}50%{opacity:1}}</style></defs>
+<g clip-path="url(#r)">
+<rect width="1200" height="230" fill="url(#bg)"/>
+<circle r="172.5" fill="url(#orbA)"><animateMotion dur="18s" repeatCount="indefinite" path="M240.0,69.0 C540.0,-23.0 840.0,207.0 240.0,69.0"/></circle>
+<circle r="138.0" fill="url(#orbB)"><animateMotion dur="22s" repeatCount="indefinite" path="M1020.0,161.0 C720.0,253.00000000000003 480.0,23.0 1020.0,161.0"/></circle>
+<rect width="1200" height="230" fill="url(#grid)"/>
+<g class="in t" text-anchor="middle">
+<text x="600" y="92" font-size="34" font-weight="800" fill="#FFFFFF">Let's build something exceptional together.</text>
+<text x="600" y="128" font-size="17" fill="#A9B8E0">From the first idea to launch and beyond: strategy, design and engineering under one roof.</text>
+<rect class="glow" x="470" y="152" width="260" height="46" rx="23" fill="url(#accent)"/>
+<text x="600" y="181" font-size="17" font-weight="700" fill="#FFFFFF">alphaa-tech.com  →</text>
+</g></g>
+</svg>
